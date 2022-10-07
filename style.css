@@ -204,3 +204,12 @@ margin-top: 50px;
 .inside{
     margin-bottom: 110px;
 }
+.learnmore{
+    color: green;
+    display: inline-block;
+}
+a{
+    color: #90FFA9;
+    word-spacing: 1px;
+    font-size: 20px;
+}
